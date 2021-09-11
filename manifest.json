@@ -9,7 +9,6 @@
     "default_icon": "images/icon.png",
     "default_popup": "start.html"
   },
-  "permissions": ["activeTab"],
   "content_scripts": [
     {
       "matches": [
@@ -17,9 +16,6 @@
       ],
       "js": [
         "/scripts/content.js"
-      ],
-      "css": [
-        "/css/start.css"
       ]
     }
   ]
