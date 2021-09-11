@@ -12,7 +12,8 @@ h1 {
     font-size: 22px;
     font-weight: 400;
     margin: 0;
-    color: #ff0000;
+    color: #ec111a;
+    padding-bottom: 0px;
   }
 
   a:link,
@@ -28,43 +29,53 @@ h1 {
 
   .modal-header {
     align-items: center;
-    border-bottom: 0.5px solid #ff0000;
+    border-bottom: 5px solid #ec111a;
+    
   }
 
   .modal-content {
-    padding: 0 22px;
+    padding: 0px;
+    margin: 0px;
   }
 
   .modal-icons {
-    border-top: 0.5px solid #ff0000;
+    border-top: 5px solid #ec111a;
     height: 50px;
     width: 100%;
   }
 
   .logo {
     padding: 16px;
+    padding-bottom: 0;
+    font-weight: bold;
   }
 
   .logo-icon {
     vertical-align: text-bottom;
     margin-right: 12px;
+    margin-bottom: 0px;
   }
 
   .version {
     color: #444;
     font-size: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
   }
 
   .flex-container {
     display: flex;
     justify-content: space-between;
     padding: 10px 22px;
+    text-align: center;
+  
   }
 
   .flex {
     opacity: 1;
     transition: opacity 0.2s ease-in-out;
-    width: 120px;
+    width: 5000px;
+    
   }
 
   .flex:hover {
@@ -72,22 +83,59 @@ h1 {
   }
 
   .flex .fa {
-    font-size: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-size: 90px;
     color: #2f5876;
   }
 
-  #familiarity {
-    font-family: "Menlo", monospace;
-    font-size: 16px;
-    font-weight: 400;
-    margin: 0;
-    color: #000000;
-    margin-left: auto;
-    margin-right: auto;
+  .faq-content {
     padding: 0 22px;
+    font-size: 14px;
+  }
+  .faq-title {
+    padding: 0 22px;
+  }
+
+  #familiarity {
+    font-family: "Oxygen","Menlo", monospace;
+    font-size: 24px;
+    font-weight: bold;
+    margin: auto;
+    color: #000000;
+    padding: 0 22px;
+    font-weight: bold;
+  }
+
+  #title-text {
+    font-size: 12px;
+    padding-left: 35px;
+    margin-top: 0px;
+    color: black;
+    padding-top: 0px;
   }
 
 
 #listitemtwo {
     display: inline-block;
+}
+
+.center {
+  margin: auto;
+  width: auto;
+  text-align: center;
+  margin-top: 0px;
+  display: block;
+  padding: 15px 10px 17px 13px;
+  text-decoration: none;
+  color: #535a60;
+  
+}
+
+.name {
+  margin-top: 0px;
+  font-size: 22px;
+  margin-left: 22px;
 }

@@ -6,9 +6,11 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
     integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
-  <link href="popup.css" rel="stylesheet">
-  <link href="button.css" rel="stylesheet">
-
+  <link href="css/popup.css" rel="stylesheet">
+  <link href="css/button.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Glory:wght@100&family=Oxygen&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -17,44 +19,45 @@
       <h1 class="logo">
         <img class="logo-icon" src="images/traversy-logo.png" />EasyScotia
         <span class="version">(v1.0.0)</span>
+        <div class="modal-content">
+          <h2 id="title-text">
+            <p>Easy Access to Banking Help</p>
+          </h2>
+  
+        </div>
       </h1>
     </div>
 
-  <div class="modal-content">
-    <h2 class="title-text">
-      <p>Easy Access to Banking Help</p>
-    </h2>
+
+    <div class="name">
+        <p>Good Afternoon, Laura!</p>
+    </div>
+
+  <div class="center">
+    <p id="familiarity">Are you familiar with this topic?</p>
   </div>
 
-  <div id="familiarity">
-    Are you familiar with this topic?
-  </div>
-
-  <div>
+<div>
   <nav id="listitems">
     <ul>
-      <li>Yes</a>
-        
-        <!-- <form action="/popup.html">
-          <input type="submit">
-        </form> -->
+      <li> <a id="textblock" href="popup.html">Yes <span></span><span></span><span></span><span></span></a>
         <span></span><span></span><span></span><span></span>
       </li>
       </ul>
   </nav>
 
-  <nav id="listitemtwo">
-  <ul>
-    <li>
-      No
-      <span></span><span></span><span></span><span></span>
-    </li>
-  </ul>
-</nav>
-
-</div>
-
-<script src="scripts/popup.js"></script>
+    <nav id="listitemtwo">
+    <ul>
+        <li>
+            <a id="textblock" href="https://www.scotiabank.com/ca/en/commercial-banking/scotia-connect-simple/payments/eft-payments.html" target="_blank">No <span></span><span></span><span></span><span></span></a>
+        <span></span><span></span><span></span><span></span>
+        </li>
+    </ul>
+    </nav>  
+  
+  </div>
+    <br>
+    <img class="verified-img" src="images/verified.png">
 
 </body>
 
