@@ -1,0 +1,78 @@
+EFT Payments
+EFT Payments allow you to send and receive funds from accounts in Canada
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleEFTGSG.pdf
+Wire Payments
+Wire Payments allow you to send money internationally in a variety of currencies
+https://gtb.scotiabank.com/content/dam/gtb/documents/WirePayments_GettingStartedGuide.pdf
+ACH Payments
+International ACH Payments (IATs), allow you to send payment instructions to account located in the US
+/ca/en/commercial-banking/scotia-connect-simple/payments/ach-payments.html
+Interac e-Transfer for Business
+Send and receive funds in real time.
+https://www.scotiabank.com/content/dam/gtb/documents/simetransferGSG.pdf
+Receiving Payments
+How to find the account information companies will need to send you payments
+https://gtb.scotiabank.com/content/dam/gtb/documents/SimReceivingPayments.pdf
+Setting Up Users
+How to add users to ScotiaConnect
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleuserpermissions.pdf
+Resetting Passwords
+Walkthrough of the steps Administrators use to reset passwords and the steps users go to unlock their access to ScotiaConnect 
+Â
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleresettingpasswords.pdf
+Company Permissions
+How to modify your company's payment approval setup and other permissions in ScotiaConnect
+Â
+https://gtb.scotiabank.com/content/dam/gtb/documents/simplecompanypermissions.pdf
+Billing Statements
+View your invoices in ScotiaConnect
+Â
+https://gtb.scotiabank.com/content/dam/scotiabank/canada/en/documents/simbillingQRG.pdf
+Available Reports
+Overview of the standard reports available in ScotiaConnect
+https://www.scotiabank.com/content/dam/gtb/documents/SimreportingGSG.pdf
+ScotiaConnect Mobile
+/ca/en/commercial-banking/scotia-connect-simple/additional-services/scotiaconnect-mobile.html
+File Delivery Webinar
+This webinar will show you how to upload and download files using File Delivery
+https://www.youtube.com/watch?v=vJahdnaBzS0?rel=0&cc_load_policy=1&showinfo=0&autoplay=true
+PS C:\Users\Pavan\Desktop\scotia-ext> & C:/Users/Pavan/Miniconda3/python.exe c:/Users/Pavan/Desktop/scotia-ext/webscrape.py   
+EFT Payments
+EFT Payments allow you to send and receive funds from accounts in Canada
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleEFTGSG.pdf
+Wire Payments
+Wire Payments allow you to send money internationally in a variety of currencies
+https://gtb.scotiabank.com/content/dam/gtb/documents/WirePayments_GettingStartedGuide.pdf
+ACH Payments
+International ACH Payments (IATs), allow you to send payment instructions to account located in the US
+/ca/en/commercial-banking/scotia-connect-simple/payments/ach-payments.html
+Interac e-Transfer for Business
+Send and receive funds in real time.
+https://www.scotiabank.com/content/dam/gtb/documents/simetransferGSG.pdf
+Receiving Payments
+How to find the account information companies will need to send you payments
+https://gtb.scotiabank.com/content/dam/gtb/documents/SimReceivingPayments.pdf
+Setting Up Users
+How to add users to ScotiaConnect
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleuserpermissions.pdf
+Resetting Passwords
+Walkthrough of the steps Administrators use to reset passwords and the steps users go to unlock their access to ScotiaConnect 
+Â
+https://gtb.scotiabank.com/content/dam/gtb/documents/simpleresettingpasswords.pdf
+Company Permissions
+How to modify your company's payment approval setup and other permissions in ScotiaConnect
+Â
+https://gtb.scotiabank.com/content/dam/gtb/documents/simplecompanypermissions.pdf
+Billing Statements
+View your invoices in ScotiaConnect
+Â
+https://gtb.scotiabank.com/content/dam/scotiabank/canada/en/documents/simbillingQRG.pdf
+Available Reports
+Overview of the standard reports available in ScotiaConnect
+https://www.scotiabank.com/content/dam/gtb/documents/SimreportingGSG.pdf
+ScotiaConnect Mobile
+This mobile app allows you to perform certain functions directly on your mobile devices
+/ca/en/commercial-banking/scotia-connect-simple/additional-services/scotiaconnect-mobile.html
+File Delivery Webinar
+This webinar will show you how to upload and download files using File Delivery
+https://www.youtube.com/watch?v=vJahdnaBzS0?rel=0&cc_load_policy=1&showinfo=0&autoplay=true

@@ -145,3 +145,7 @@ body {
     display: inline-block;
     vertical-align: middle;
   }
+
+  .highlight {
+    background-color: yellow;
+  }

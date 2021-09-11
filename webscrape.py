@@ -22,6 +22,12 @@ for item in listoflinks:
             details = row.find('p').getText().strip()
             link = row.find("a")['href']
 
+
+            file = open("keywords.txt","a")
+            L = [details, link]
+            file.writelines(L) 
+            file.close()
+
             print(details)
             print(link)
 
