@@ -8,7 +8,7 @@ It also provides easy access to Scotiabank help sections through the various ico
 ## Contributors
 * [Pavan Khiani](https://github.com/pkhiani)
 * [Yale Wang](https://github.com/yale3450)
-* [Pradyut Mandal](https://github.com/prad12)
+* [Pradyut Mandal](https://github.com/prad14)
 * [Tejsai Tagore](https://github.com/)
 
 ## Built With
