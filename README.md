@@ -1,4 +1,4 @@
-# S\:HA<KS 2021 Submission
+# S\:HA<KS 2021 Submission (3rd Place Winner)
 
 ## About
 EasyScotia is an in-built overlay of relevant information, easily accessible through a chrome extension. 
